@@ -9,51 +9,32 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+教育经历 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* 清华大学自动化系，工学学士，2019
+* Bachelor of Engineering in Automation, Tsinghua University,2019
+* 清华大学教育研究院，管理学硕士，2022
+* Master of Management in Public Administration,Tsinghua University,2022
+* 清华大学教育研究院，教育学博士研究生（在读）
+* Ph.D student in Education, Tsinghua University
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
+期刊文章 Journal Articles
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+学术会议 Conferences
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
+其他产出 Other Publications
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
