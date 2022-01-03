@@ -9,9 +9,8 @@ main:
   - title: "学术会议"
     url: /conference/    
     
-  - title: "其他产出"
+  - title: "其他"
     url: /others/
     
-  - title: "CV"
-    url: /cv/
+
 
