@@ -14,15 +14,13 @@ redirect_from:
 * Bachelor of Engineering in Automation, Tsinghua University,2019
 * 清华大学教育研究院，管理学硕士，2022
 * Master of Management in Public Administration,Tsinghua University,2022
-* 清华大学教育研究院，教育学博士研究生（在读）
+* 清华大学教育研究院，教育学博士（尚未毕业）
 * Ph.D student in Education, Tsinghua University
 
 
 期刊文章 Journal Articles
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+高等工程教育研究
   
 学术会议 Conferences
 ======
