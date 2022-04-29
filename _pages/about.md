@@ -20,7 +20,7 @@ redirect_from:
 
 ## 期刊文章 Journal Articles
 
-* 文雯，周璐，芮振华，陈龙飞. 形似与神异：中美研究型大学课程体系比较[J]. 高等工程教育研究,2022,175-181.[CSSCI]
+* 文雯，周璐，芮振华，陈龙飞. 形似与神异：中美研究型大学课程体系比较[J]. 高等工程教育研究,2022（01）,175-181.[CSSCI]
 * Lu Zhou, Xi Hong. Book Review: Review of “Global University President Leadership”[J]. International Journal of Chinese Education, 2021.
 * Yang Liu, Yu Zhang, Weifeng Qiao, Lu Zhou, Hamish Coates. Ensuring the Sustainability of University Learning: Case Study of a Leading Chinese University[J]. Sustainability, 2020, 12.[SSCI]
 
@@ -41,5 +41,5 @@ redirect_from:
 
 * 清华大学研究生培养学生咨询委员会委员（2021-2022）
 * 清华大学学生学习发展中心写作助理（2021-2022）
-* 英文期刊Studies in Higher Education审稿人
-* 辅修清华大学大数据能力提升项目，完成全部要求课程并获得项目证书
+* 英文期刊Studies in Higher Education，International Journal of Chinese Education审稿人
+* 辅修清华大学大数据能力提升项目
