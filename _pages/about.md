@@ -20,7 +20,7 @@ redirect_from:
 
 ## 期刊文章 Journal Articles
 
-* Wen Wen, Lu Zhou. Navigating and Negotiating Global Science: Tensions in China’s National Science System[J]. Studies in Higher Education, 2022.(Forthcoming)[SSCI]
+* Wen Wen, Lu Zhou, Die Hu. Navigating and Negotiating Global Science: Tensions in China’s National Science System[J]. Studies in Higher Education, 2022.[SSCI]
 * 文雯，周璐，芮振华，陈龙飞. 形似与神异：中美研究型大学课程体系比较[J]. 高等工程教育研究,2022（01）,175-181.[CSSCI]
 * Lu Zhou, Xi Hong. Book Review: Review of “Global University President Leadership”[J]. International Journal of Chinese Education, 2021.
 * Yang Liu, Yu Zhang, Weifeng Qiao, Lu Zhou, Hamish Coates. Ensuring the Sustainability of University Learning: Case Study of a Leading Chinese University[J]. Sustainability, 2020, 12.[SSCI]
