@@ -48,5 +48,6 @@ redirect_from:
 
 * 清华大学研究生培养学生咨询委员会委员（2021-2022）
 * 清华大学学生学习发展中心写作助理项目学生咨询师（2021-2022）
-* 英文期刊Studies in Higher Education，International Journal of Chinese Education, Journal of Intelligence审稿人
+* 英文期刊Studies in Higher Education，International Journal of Chinese Education, Journal of Intelligence, Education Sciences审稿人
+* 国际会议CIES2023学生审稿人
 * 辅修清华大学大数据能力提升项目
