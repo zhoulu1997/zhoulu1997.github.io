@@ -20,10 +20,11 @@ redirect_from:
 
 ## 期刊文章 Journal Articles
 
-* Wen Wen, Lu Zhou, Die Hu. Navigating and Negotiating Global Science: Tensions in China’s National Science System[J]. Studies in Higher Education, 2022.[SSCI]
-* 文雯，周璐，芮振华，陈龙飞. 形似与神异：中美研究型大学课程体系比较[J]. 高等工程教育研究,2022（01）,175-181.[CSSCI] (English Title: Appearence Similarity and Essence Difference: a Comparative Curriculum Study of Top Chinese&American Research Universities. Journal Name: Research in Higher Education of Engineering)
-* Lu Zhou, Xi Hong. Book Review: Review of “Global University President Leadership”[J]. International Journal of Chinese Education, 2021.
-* Yang Liu, Yu Zhang, Weifeng Qiao, Lu Zhou, Hamish Coates. Ensuring the Sustainability of University Learning: Case Study of a Leading Chinese University[J]. Sustainability, 2020, 12.[SSCI]
+* Wen Wen, Lu Zhou, Die Hu. Navigating and Negotiating Global Science: Tensions in China’s National Science System[J]. Studies in Higher Education, 2022.[SSCI]【[read PDF)(https://github.com/zhoulu1997/zhoulu1997.github.io/blob/7b9ac4492ac8a7d11327c5922c5e3b0c73a2d06c/files/Navigating%20and%20negotiating%20global%20science%20tensions%20in%20China%20s%20national%20science%20system.pdf)】
+* 文雯，周璐，芮振华，陈龙飞. 形似与神异：中美研究型大学课程体系比较[J]. 高等工程教育研究,2022（01）,175-181.[CSSCI] 【[read PDF](https://github.com/zhoulu1997/zhoulu1997.github.io/blob/7b9ac4492ac8a7d11327c5922c5e3b0c73a2d06c/files/2022Engineering.pdf)】(English Title: Appearence Similarity and Essence Difference: a Comparative Curriculum Study of Top Chinese&American Research Universities. Journal Name: Research in Higher Education of Engineering)
+* Lu Zhou, Xi Hong. Book Review: Review of “Global University President Leadership”[J]. International Journal of Chinese Education, 2021.【[read PDF](https://github.com/zhoulu1997/zhoulu1997.github.io/blob/7b9ac4492ac8a7d11327c5922c5e3b0c73a2d06c/files/bookreview2021.pdf)】
+* Yang Liu, Yu Zhang, Weifeng Qiao, Lu Zhou, Hamish Coates. Ensuring the Sustainability of University Learning: Case Study of a Leading Chinese University[J]. Sustainability, 2020, 12.[SSCI]【[read PDF](https://github.com/zhoulu1997/zhoulu1997.github.io/blob/42ec15c1cd4307d84989d3c33a2866de284ae037/files/sustainability-12-06929.pdf)】
+
 
   
 ## 学术会议 Conferences
