@@ -176,16 +176,16 @@ kramdown:
 # Collections
 collections:
   教育经历:
-    output: true
+    output: false
     permalink: /:collection/:path/
   期刊文章:
-    output: true
+    output: false
     permalink: /:collection/:path/
   学术会议:
-    output: true
+    output: false
     permalink: /:collection/:path/
   其他:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
