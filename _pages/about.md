@@ -12,9 +12,9 @@ redirect_from:
 
 * 清华大学自动化系，工学学士，2019
 * Bachelor of Engineering in Automation, Tsinghua University,2019
-* 清华大学教育研究院，管理学硕士，2022
-* Master of Management in Public Administration,Tsinghua University,2022
-* 清华大学教育研究院，教育学博士（尚未毕业）
+* 清华大学教育研究院，管理学硕士（辅修清华大学大数据能力提升项目），2022 
+* Master of Management in Public Administration（Minor in data science project）,Tsinghua University,2022
+* 清华大学教育研究院，教育学博士研究生在读
 * Ph.D student in Education, Tsinghua University
 
 
@@ -37,21 +37,29 @@ redirect_from:
 ## 书籍章节 Book chapters
 
 * 周璐. 中国大百科全书第三版.教育学科条目：现代课程，后现代课程
-* 史静寰，曹雪萌，周璐，谢婉怡，巴音. 中国妇女教育发展报告NO.4——新时期女大学生的成长与发展.章节：高等教育普及化阶段中国女大学生的学习体验与收获.待出版
-* 文雯等. 中美高等教育质量的比较研究.（待出版）
+(Lu Zhou. Encyclopedia of China( 3rd version). Entry: Modern Curriculum, Postmodern Curriculum)
 * 文雯，王嵩迪，周璐，李曼丽.清华大学智库政策专报《后疫情时代中美在线高等教育发展比较及政策建议》
+(Wen Wen, Songdi Wang, Lu Zhou, Manli Li. Comparison and policy recommendations of online higher education development between China and the United States in the post-epidemic era. Tsinghua Think Tank.
   
 ## 科研项目 Research Projects
 * 参与 国家社科基金教育学课题重点项目“‘冷门绝学’基础学科的人才培养体系研究”，作为核心成员负责一个子课题（课程与教学）的协调与执行工作
+(Core member of Project "Research on Talent training System of Basic discipline of 'Unpopular and Unlearned'"(Key Project of National Social Science Fund), and  responsible for a sub-project about curriculum and teaching)(2022-2024)
+* 参与 清华大学本科教育教学改革项目“清华大学‘从游’育人模式的理论和实践研究”，作为核心成员负责课程教学和生师互动部分的分析工作
+(Core member of Project "Role model in teaching: Theory and Practice"(Tsinghua Undergraduate Education Reform Project), and responsible for the analysis of curriculum, teaching, and student-faculty interaction)(2021-2022)
+* 参与 清华大学“中国大学生学习与发展追踪研究调查（CCSS）”项目，作为核心成员参与问卷设计和定量数据分析工作
+(Member of Project"China College Student Survey(CCSS)", and participating in quesionnaire design and quantitative data analysis)(2020-2022)
 * 参与 国家自然科学基金青年项目“研究型大学跨学科教育模式下本科创新人才培养的机制研究”，负责课程部分的数据分析、报告撰写等工作
-* 参与 教育部高等教育司委托项目“中美高等教育质量的比较研究”，参与资料收集、数据分析等工作，负责课程与教学、在线教育两部分的报告撰写工作
-* 参与 清华大学本科教育教学改革项目“清华大学‘从游’育人模式的理论和实践研究”，作为核心成员参与资料收集、数据分析、报告撰写等工作
+(Core memeber of Project"Promoting interdisciplinary learning for undergraduates in research universities"(Youth Project of National Natural Science Fund), and responsible for data analysis and reporting of curriculum part)(2020-2021)
+* 参与 教育部高等教育司委托项目“中美高等教育质量的比较研究”，参与课程与教学、在线教育两部分的数据分析和报告撰写工作
+(Member of Project"A Comparative study of higher education quality between China and America"(Project commissioned by Higher Education Department of Ministry of Education), participating in data analysis and reporting of curriculum&teaching, online education)(2020-2021)
+
   
 ## 其他 Others
 
-* 清华大学研究生培养学生咨询委员会委员（2021-2022）
-* 清华大学学生学习发展中心写作助理项目学生咨询师（2021-2022）
-* 英文期刊Studies in Higher Education，International Journal of Chinese Education, Journal of Intelligence, Education Sciences审稿人
-* 国际会议Comparative&International Education Society(CIES)2023学生审稿人
-* 辅修清华大学大数据能力提升项目
+* 清华大学研究生培养学生咨询委员会委员(Member of Tsinghua Graduate Education Advisory Committee)（2021-2022）
+* 清华大学学生学习发展中心写作助理项目学生咨询师(Consultant of Writing Coach Project in Tsinghua Centre for Student Learning and Development)（2021-2022）
+* 中国发展研究基金会儿童发展中心政策研究实习生(Policy Research Intern, Child Development Center, China Development Research Foundation)（2020）
+* Reviewer for journals: Studies in Higher Education，International Journal of Chinese Education, Education Sciences
+* Reviewer for conferences: Comparative&International Education Society(CIES)2023
+
 
