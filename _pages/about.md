@@ -10,12 +10,12 @@ redirect_from:
 
 ## 教育经历 Education
 
-* 清华大学自动化系，工学学士，2019
-* Bachelor of Engineering in Automation, Tsinghua University, 2019
+* 清华大学信息学院自动化系，工学学士，2019
+* Bachelor of Engineering in Automation, School of Information Science, Tsinghua University, 2019
 * 清华大学教育研究院，管理学硕士（辅修清华大学大数据能力提升项目），2022 
-* Master of Management in Public Administration（Minor in data science project）, Tsinghua University, 2022
+* Master of Management in Public Administration（Minor in data science project）, Institution of Education, Tsinghua University, 2022
 * 清华大学教育研究院，教育学博士研究生在读
-* Ph.D student in Education, Tsinghua University
+* Ph.D student in Education, Institution of Education, Tsinghua University
 
 
 ## 期刊文章 Journal Articles
@@ -34,7 +34,7 @@ redirect_from:
 * Hamish Coates, Liu Liu, Lu Zhou. Sustaining high-quality hybrid higher education. The European Higher Education Society 43rd ANNUAL FORUM,2021.9
 * 文雯，周璐. 中美研究型大学本科课程体系比较研究——以清华大学与麻省理工学院电子工程与计算机科学专业为例. 中国教育学会比较教育分会第二十届学术年会,2020.11.
 
-## 书籍章节 Book chapters
+## 书籍章节 Book Chapters
 
 * 周璐. 中国大百科全书第三版.教育学科条目：现代课程，后现代课程
 (Lu Zhou. Encyclopedia of China( 3rd version). Entry: Modern Curriculum, Postmodern Curriculum)
