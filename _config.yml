@@ -10,7 +10,7 @@ locale                   : "中国 CHN"
 title                    : "周璐 Lu Zhou"
 title_separator          : "-"
 name                     : &name "周璐 Lu Zhou"
-description              : &description "清华大学教育研究院博士研究生"
+description              : &description "清华大学教育研究院博士生"
 url                      : https://zhoulu1997.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zhoulu1997.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "周璐 Lu Zhou"
   avatar           : "半身证件照.jpg"
-  bio              : "清华大学教育研究院博士研究生"
+  bio              : "清华大学教育研究院博士生"
   location         : "中国 北京"
   employer         :
   pubmed           : 
