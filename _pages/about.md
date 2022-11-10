@@ -28,7 +28,7 @@ redirect_from:
 
   
 ## 学术会议 Conferences
-
+* Songdi Wang, Lu Zhou. After delight: the emotional suffering of rural students enrolled through special admission policies in China's elite universities. the 67th Annual Meeting of the Comparative and International Education Society (CIES 2023),2023.2
 * 文雯，周璐. 在线教育新常态背景下中国大学生在线课程学习行为分析. 中国大学生学习与发展追踪研究（CCSS）2021年会. 2022.1 (English Title: Online Course Learning Behavior of Chinese College Students in New Normal Era)
 * 周璐，闫泽华. 大学教育经历如何影响理工科女大学生的职业自我效能. 第七届全国教育实证研究论坛，2021.10.(English Title: The Impact of College Experience on Female Students’ Self-Perceived Employability in STEM Majors)
 * Hamish Coates, Liu Liu, Lu Zhou. Sustaining high-quality hybrid higher education. The European Higher Education Society 43rd ANNUAL FORUM,2021.9
