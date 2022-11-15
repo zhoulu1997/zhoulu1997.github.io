@@ -28,7 +28,9 @@ redirect_from:
 
   
 ## 学术会议 Conferences
+
 * Songdi Wang, Lu Zhou. After delight: the emotional suffering of rural students enrolled through special admission policies in China's elite universities. the 67th Annual Meeting of the Comparative and International Education Society (CIES 2023),2023.2
+* 周璐，文雯. 高等教育分类系统中的理工科女生：大学教育经历如何赋能职业自我效能. 中国教育学会比较教育分会第二十一届学术年会, 2022.11(English Title: Women in STEM in the Classification System of Chinese Higher Education: How does College Experience Empower Employability)
 * 文雯，周璐. 在线教育新常态背景下中国大学生在线课程学习行为分析. 中国大学生学习与发展追踪研究（CCSS）2021年会. 2022.1 (English Title: Online Course Learning Behavior of Chinese College Students in New Normal Era)
 * 周璐，闫泽华. 大学教育经历如何影响理工科女大学生的职业自我效能. 第七届全国教育实证研究论坛，2021.10.(English Title: The Impact of College Experience on Female Students’ Self-Perceived Employability in STEM Majors)
 * Hamish Coates, Liu Liu, Lu Zhou. Sustaining high-quality hybrid higher education. The European Higher Education Society 43rd ANNUAL FORUM,2021.9
@@ -42,6 +44,7 @@ redirect_from:
 (Wen Wen, Songdi Wang, Lu Zhou, Manli Li. Comparison and policy recommendations of online higher education development between China and the United States in the post-epidemic era. Tsinghua Think Tank.)
   
 ## 科研项目 Research Projects
+
 * 参与 国家社科基金教育学课题重点项目“‘冷门绝学’基础学科的人才培养体系研究”，作为核心成员负责一个子课题（课程与教学）的协调与执行工作
 (Core member of Project "Research on Undergradudate Education of Unpopular Humanities"(Key Project of National Social Science Fund), and  responsible for a sub-project about curriculum and teaching)(2022-2024)
 * 参与 清华大学本科教育教学改革项目“清华大学‘从游’育人模式的理论和实践研究”，作为核心成员负责课程教学和生师互动部分的分析工作
