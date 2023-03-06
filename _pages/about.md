@@ -41,13 +41,13 @@ redirect_from:
 * 周璐. 中国大百科全书第三版.教育学科条目：现代课程，后现代课程
 (Lu Zhou. Encyclopedia of China( 3rd version). Entry: Modern Curriculum, Postmodern Curriculum)
 * 文雯，王嵩迪，周璐.清华大学智库政策专报《在线教育“新常态”下我国大学生在线课程学习表现、问题与对策》,2022.8
-* 文雯，王嵩迪，周璐，李曼丽.清华大学智库政策专报《后疫情时代中美高等教育国际化发展比较及政策建议》,2022.4
 * 文雯，王嵩迪，周璐，李曼丽.清华大学智库政策专报《后疫情时代中美在线高等教育发展比较及政策建议》,2021.11
 (Wen Wen, Songdi Wang, Lu Zhou, Manli Li. Comparison and policy recommendations of online higher education development between China and the United States in the post-epidemic era. Tsinghua Think Tank.)
 
   
 ## 科研项目 Research Projects
 
+* 主持 清华大学研究生教育教学改革项目“研究生助教制度优化研究”（2023-2024）
 * 参与 国家社科基金教育学课题重点项目“‘冷门绝学’基础学科的人才培养体系研究”，作为核心成员负责一个子课题（课程与教学）的协调与执行工作
 (Core member of Project "Research on Undergradudate Education of Unpopular Humanities"(Key Project of National Social Science Fund), and  responsible for a sub-project about curriculum and teaching)(2022-2024)
 * 参与 清华大学本科教育教学改革项目“清华大学‘从游’育人模式的理论和实践研究”，作为核心成员负责课程教学和生师互动部分的分析工作
@@ -63,7 +63,7 @@ redirect_from:
 ## 其他 Others
 
 * 清华大学研究生培养学生咨询委员会委员(Member of Tsinghua Graduate Education Advisory Committee)（2021-2023）
-* 清华大学学生学习发展中心写作助理项目学生咨询师(Consultant of Writing Coach Project in Tsinghua Centre for Student Learning and Development)（2021-2022）
+* 清华大学学生学习发展中心写作助理项目学生咨询师(Consultant of Writing Coach Project in Tsinghua Centre for Student Learning and Development)（2021-2023）
 * 中国发展研究基金会儿童发展中心政策研究实习生(Policy Research Intern, Child Development Centre, China Development Research Foundation)（2020）
 * Reviewer for journals: Studies in Higher Education，International Journal of Chinese Education, Education Sciences
 * Reviewer for conferences: Comparative&International Education Society(CIES)2023
