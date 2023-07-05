@@ -29,7 +29,8 @@ redirect_from:
 
   
 ## 学术会议 Conferences
-
+* 周璐，文雯. 深入理解高等教育课程：思想与理论. 2023年华东师范大学高等教育学博士生学术论坛.2023.7
+* 周璐. 计算机专业本科课程体系演变研究. 第五届全国高校高等教育学研究生学术论坛. 2023.6. 海报论文.
 * Songdi Wang, Lu Zhou. After delight: the emotional suffering of rural students enrolled through special admission policies in China's elite universities. the 67th Annual Meeting of the Comparative and International Education Society (CIES 2023),2023.2
 * 周璐，文雯. 高等教育分类系统中的理工科女生：大学教育经历如何赋能职业自我效能. 中国教育学会比较教育分会第二十一届学术年会, 2022.11(English Title: Women in STEM in the Classification System of Chinese Higher Education: How does College Experience Empower Employability)
 * 文雯，周璐. 在线教育新常态背景下中国大学生在线课程学习行为分析. 中国大学生学习与发展追踪研究（CCSS）2021年会. 2022.1 (English Title: Online Course Learning Behavior of Chinese College Students in New Normal Era)
