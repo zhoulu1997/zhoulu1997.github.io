@@ -20,7 +20,7 @@ redirect_from:
 
 ## 期刊文章 Journal Articles
 
-* Wen Wen, Lu Zhou, Mingyu Zhang, Die Hu. Urban/Rural Disparities in Access to Elite Higher Education: The Case of Tsinghua University[J]. International Journal of Chinese Education, 2023.12(02),1-12.【[read PDF]】
+* Wen Wen, Lu Zhou, Mingyu Zhang, Die Hu. Urban/Rural Disparities in Access to Elite Higher Education: The Case of Tsinghua University[J]. International Journal of Chinese Education, 2023.12(02),1-12.【[read PDF](https://github.com/zhoulu1997/zhoulu1997.github.io/blob/master/files/CNE2023.pdf)】
 * 文雯，周璐，马志新.在线教育常态化背景下大学生在线课程学情分析[J].教育发展研究,2023(05),28-36.【[read PDF](https://github.com/zhoulu1997/zhoulu1997.github.io/blob/master/files/%E5%9C%A8%E7%BA%BF%E6%95%99%E8%82%B2%E5%B8%B8%E6%80%81%E5%8C%96%E8%83%8C%E6%99%AF%E4%B8%8B%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%9C%A8%E7%BA%BF%E8%AF%BE%E7%A8%8B%E5%AD%A6%E6%83%85%E5%88%86%E6%9E%90_%E6%96%87%E9%9B%AF.pdf)】
 * Wen Wen, Lu Zhou, Die Hu. Navigating and Negotiating Global Science: Tensions in China’s National Science System[J]. Studies in Higher Education, 2022.[SSCI]【[read PDF](https://github.com/zhoulu1997/zhoulu1997.github.io/blob/7b9ac4492ac8a7d11327c5922c5e3b0c73a2d06c/files/Navigating%20and%20negotiating%20global%20science%20tensions%20in%20China%20s%20national%20science%20system.pdf)】
 * 文雯，周璐，芮振华，陈龙飞. 形似与神异：中美研究型大学课程体系比较[J]. 高等工程教育研究,2022（01）,175-181.[CSSCI] 【[read PDF](https://github.com/zhoulu1997/zhoulu1997.github.io/blob/7b9ac4492ac8a7d11327c5922c5e3b0c73a2d06c/files/2022Engineering.pdf)】(English Title: Appearence Similarity and Essence Difference: a Comparative Curriculum Study of Top Chinese&American Research Universities. Journal Name: Research in Higher Education of Engineering)
