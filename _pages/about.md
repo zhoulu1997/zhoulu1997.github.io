@@ -10,12 +10,14 @@ redirect_from:
 
 ## 教育经历 Education
 
-* 清华大学信息学院自动化系，工学学士，2019
-* Bachelor of Engineering in Automation, School of Information Science, Tsinghua University, 2019
-* 清华大学教育研究院，管理学硕士（辅修清华大学大数据能力提升项目），2022 
-* Master of Management in Public Administration（Minor in data science project）, Institution of Education, Tsinghua University, 2022
-* 清华大学教育研究院，教育学博士研究生在读
-* Ph.D student in Education, Institution of Education, Tsinghua University
+* 清华大学信息学院自动化系，工学学士，2015-2019
+* Bachelor of Engineering in Automation, School of Information Science, Tsinghua University, 2015-2019
+* 清华大学教育研究院，管理学硕士（辅修清华大学大数据能力提升项目），2019-2022 
+* Master of Management in Public Administration（Minor in data science project）, Institution of Education, Tsinghua University, 2019-2022
+* 清华大学教育研究院，教育学博士研究生在读,2022-
+* Ph.D student in Higher Education, Institution of Education, Tsinghua University,2022-
+* 密歇根大学安娜堡分校教育学院，联合培养博士生，2023-2024
+* Visiting scholar in Higher Education, Marsal Family School of Education, University of Michigan, Ann Arbor,2023-2024
 
 
 ## 期刊文章 Journal Articles
@@ -23,7 +25,7 @@ redirect_from:
 * Wen Wen, Lu Zhou, Mingyu Zhang, Die Hu. Urban/Rural Disparities in Access to Elite Higher Education: The Case of Tsinghua University[J]. International Journal of Chinese Education, 2023.12(02),1-12.【[read PDF](https://github.com/zhoulu1997/zhoulu1997.github.io/blob/master/files/CNE2023.pdf)】
 * 文雯，周璐，马志新.在线教育常态化背景下大学生在线课程学情分析[J].教育发展研究,2023(05),28-36.【[read PDF](https://github.com/zhoulu1997/zhoulu1997.github.io/blob/master/files/%E5%9C%A8%E7%BA%BF%E6%95%99%E8%82%B2%E5%B8%B8%E6%80%81%E5%8C%96%E8%83%8C%E6%99%AF%E4%B8%8B%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%9C%A8%E7%BA%BF%E8%AF%BE%E7%A8%8B%E5%AD%A6%E6%83%85%E5%88%86%E6%9E%90_%E6%96%87%E9%9B%AF.pdf)】
 * Wen Wen, Lu Zhou, Die Hu. Navigating and Negotiating Global Science: Tensions in China’s National Science System[J]. Studies in Higher Education, 2022.[SSCI]【[read PDF](https://github.com/zhoulu1997/zhoulu1997.github.io/blob/7b9ac4492ac8a7d11327c5922c5e3b0c73a2d06c/files/Navigating%20and%20negotiating%20global%20science%20tensions%20in%20China%20s%20national%20science%20system.pdf)】
-* 文雯，周璐，芮振华，陈龙飞. 形似与神异：中美研究型大学课程体系比较[J]. 高等工程教育研究,2022（01）,175-181.[CSSCI] 【[read PDF](https://github.com/zhoulu1997/zhoulu1997.github.io/blob/7b9ac4492ac8a7d11327c5922c5e3b0c73a2d06c/files/2022Engineering.pdf)】(English Title: Appearence Similarity and Essence Difference: a Comparative Curriculum Study of Top Chinese&American Research Universities. Journal Name: Research in Higher Education of Engineering)
+* 文雯，周璐，芮振华，陈龙飞. 形似与神异：中美研究型大学课程体系比较[J]. 高等工程教育研究,2022（01）,175-181.[CSSCI] 【[read PDF](https://github.com/zhoulu1997/zhoulu1997.github.io/blob/7b9ac4492ac8a7d11327c5922c5e3b0c73a2d06c/files/2022Engineering.pdf)】
 * Lu Zhou, Xi Hong. Book Review: Review of “Global University President Leadership”[J]. International Journal of Chinese Education, 2021.【[read PDF](https://github.com/zhoulu1997/zhoulu1997.github.io/blob/7b9ac4492ac8a7d11327c5922c5e3b0c73a2d06c/files/bookreview2021.pdf)】
 * Yang Liu, Yu Zhang, Weifeng Qiao, Lu Zhou, Hamish Coates. Ensuring the Sustainability of University Learning: Case Study of a Leading Chinese University[J]. Sustainability, 2020, 12.[SSCI]【[read PDF](https://github.com/zhoulu1997/zhoulu1997.github.io/blob/42ec15c1cd4307d84989d3c33a2866de284ae037/files/sustainability-12-06929.pdf)】
 
@@ -44,8 +46,8 @@ redirect_from:
 * 周璐. 中国大百科全书第三版.教育学科条目：现代课程，后现代课程
 (Lu Zhou. Encyclopedia of China( 3rd version). Entry: Modern Curriculum, Postmodern Curriculum)
 * 文雯，王嵩迪，周璐.清华大学智库政策专报《在线教育“新常态”下我国大学生在线课程学习表现、问题与对策》,2022.8
-* 文雯，王嵩迪，周璐，李曼丽.清华大学智库政策专报《后疫情时代中美在线高等教育发展比较及政策建议》,2021.11
-(Wen Wen, Songdi Wang, Lu Zhou, Manli Li. Comparison and policy recommendations of online higher education development between China and the United States in the post-epidemic era. Tsinghua Think Tank.)
+* 文雯，王嵩迪，周璐，李曼丽.清华大学智库政策专报《后疫情时代中美高等教育国际化发展比较及政策建议》,已报送国办，2022.4
+* 文雯，王嵩迪，周璐，李曼丽.清华大学智库政策专报《后疫情时代中美在线高等教育发展比较及政策建议》，已报送中办和国办,2021.11
 
   
 ## 科研项目 Research Projects
@@ -68,7 +70,7 @@ redirect_from:
 * 清华大学研究生培养学生咨询委员会委员(Member of Tsinghua Graduate Education Advisory Committee)（2021-2023）,2021-2022年度优秀委员
 * 清华大学学生学习发展中心写作助理项目学生咨询师(Consultant of Writing Coach Project in Tsinghua Centre for Student Learning and Development)（2021-2023）
 * 中国发展研究基金会儿童发展中心政策研究实习生(Policy Research Intern, Child Development Centre, China Development Research Foundation)（2020）
-* Reviewer for journals: Studies in Higher Education，International Journal of Chinese Education, Education Sciences
+* Reviewer for journals: Studies in Higher Education，Higher Education Policy, International Journal of Chinese Education, Education Sciences
 * Reviewer for conferences: Comparative&International Education Society(CIES)2023
 
 
