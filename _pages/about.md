@@ -70,7 +70,7 @@ redirect_from:
 * 清华大学研究生培养学生咨询委员会委员(Member of Tsinghua Graduate Education Advisory Committee)（2021-2023）,2021-2022年度优秀委员
 * 清华大学学生学习发展中心写作助理项目学生咨询师(Consultant of Writing Coach Project in Tsinghua Centre for Student Learning and Development)（2021-2023）
 * 中国发展研究基金会儿童发展中心政策研究实习生(Policy Research Intern, Child Development Centre, China Development Research Foundation)（2020）
-* 期刊审稿人: Studies in Higher Education，Higher Education Policy, Journal of Engineering Education, Studies in Engineering Education, International Journal of Chinese Education, Education Sciences
+* 期刊审稿人: Studies in Higher Education， Journal of Engineering Education, Higher Education Policy, Asia Pacific Journal of Education, Studies in Engineering Education, International Journal of Chinese Education, Education Sciences
 * 会议审稿人: Comparative&International Education Society(CIES)2023
 
 
