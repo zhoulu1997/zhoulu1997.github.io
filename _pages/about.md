@@ -36,9 +36,9 @@ redirect_from:
 * 周璐，文雯. 深入理解高等教育课程：思想与理论. 2023年华东师范大学高等教育学博士生学术论坛.2023.7.获优秀论文奖
 * 周璐. 计算机专业本科课程体系演变研究. 第五届全国高校高等教育学研究生学术论坛. 2023.6. 海报论文.
 * Songdi Wang, Lu Zhou. After delight: the emotional suffering of rural students enrolled through special admission policies in China's elite universities. the 67th Annual Meeting of the Comparative and International Education Society (CIES 2023),2023.2
-* 周璐，文雯. 高等教育分类系统中的理工科女生：大学教育经历如何赋能职业自我效能. 中国教育学会比较教育分会第二十一届学术年会, 2022.11(English Title: Women in STEM in the Classification System of Chinese Higher Education: How does College Experience Empower Employability)
-* 文雯，周璐. 在线教育新常态背景下中国大学生在线课程学习行为分析. 中国大学生学习与发展追踪研究（CCSS）2021年会. 2022.1 (English Title: Online Course Learning Behavior of Chinese College Students in New Normal Era)
-* 周璐，闫泽华. 大学教育经历如何影响理工科女大学生的职业自我效能. 第七届全国教育实证研究论坛，2021.10.(English Title: The Impact of College Experience on Female Students’ Self-Perceived Employability in STEM Majors)
+* 周璐，文雯. 高等教育分类系统中的理工科女生：大学教育经历如何赋能职业自我效能. 中国教育学会比较教育分会第二十一届学术年会, 2022.11
+* 文雯，周璐. 在线教育新常态背景下中国大学生在线课程学习行为分析. 中国大学生学习与发展追踪研究（CCSS）2021年会. 2022.1 
+* 周璐，闫泽华. 大学教育经历如何影响理工科女大学生的职业自我效能. 第七届全国教育实证研究论坛，2021.10.
 * Hamish Coates, Liu Liu, Lu Zhou. Sustaining high-quality hybrid higher education. The European Higher Education Society 43rd ANNUAL FORUM,2021.9
 * 文雯，周璐. 中美研究型大学本科课程体系比较研究——以清华大学与麻省理工学院电子工程与计算机科学专业为例. 中国教育学会比较教育分会第二十届学术年会,2020.11.
 
@@ -52,25 +52,21 @@ redirect_from:
 
   
 ## 科研项目 Research Projects
-
+* 参与 美国国家科学基金会项目“Creating a Teaching Engineering Equity Center”，参与数据分析、报告撰写等工作（2023-2024）
 * 主持 清华大学研究生教育教学改革项目“研究生助教制度优化研究”（2023-2024）
-* 参与 国家社科基金教育学课题重点项目“‘冷门绝学’基础学科的人才培养体系研究”，作为核心成员负责一个子课题（课程与教学）的协调与执行工作
-(Core member of Project "Research on Undergradudate Education of Unpopular Humanities"(Key Project of National Social Science Fund), and  responsible for a sub-project about curriculum and teaching)(2022-2024)
-* 参与 清华大学本科教育教学改革项目“清华大学‘从游’育人模式的理论和实践研究”，作为核心成员负责课程教学和生师互动部分的分析工作
-(Core member of Project "Role model in teaching: Theory and Practice"(Tsinghua Undergraduate Education Reform Project), and responsible for the analysis of curriculum, teaching, and student-faculty interaction)(2021-2022)
-* 参与 清华大学“中国大学生学习与发展追踪研究调查（CCSS）”项目，参与问卷设计和定量数据分析工作
-(Member of Project"China College Student Survey(CCSS)", and participating in quesionnaire design and quantitative data analysis)(2020-2022)
-* 参与 国家自然科学基金青年项目“研究型大学跨学科教育模式下本科创新人才培养的机制研究”，作为核心成员负责课程部分的数据分析、报告撰写等工作
-(Core memeber of Project"Promoting interdisciplinary learning for undergraduates in research universities"(Youth Project of National Natural Science Fund), and responsible for data analysis and reporting of curriculum part)(2020-2021)
-* 参与 教育部高等教育司委托项目“中美高等教育质量的比较研究”，参与课程与教学、在线教育两部分的数据分析和报告撰写工作
-(Member of Project"A Comparative study of higher education quality between China and America"(Project commissioned by Higher Education Department of Ministry of Education), participating in data analysis and reporting of curriculum&teaching, online education)(2020-2021)
+* 参与 国家社科基金教育学课题重点项目“‘冷门绝学’基础学科的人才培养体系研究”，作为核心成员负责一个子课题（课程与教学）的协调与执行工作（2022-2024）
+* 参与 清华大学本科教育教学改革项目“清华大学‘从游’育人模式的理论和实践研究”，作为核心成员负责课程教学和生师互动部分的分析工作（2022-2023）
+* 参与 清华大学“中国大学生学习与发展追踪研究调查（CCSS）”项目，参与问卷设计和定量数据分析工作（2020-2025）
+* 参与 国家自然科学基金青年项目“研究型大学跨学科教育模式下本科创新人才培养的机制研究”，作为核心成员负责课程部分的数据分析、报告撰写等工作（2019-2021）
+* 参与 教育部高等教育司委托项目“中美高等教育质量的比较研究”，参与课程与教学、在线教育两部分的数据分析和报告撰写工作（2020-2021）
+
 
   
 ## 其他 Others
 
-* 清华大学研究生培养学生咨询委员会委员(Member of Tsinghua Graduate Education Advisory Committee)（2021-2023）,2021-2022年度优秀委员
-* 清华大学学生学习发展中心写作助理项目学生咨询师(Consultant of Writing Coach Project in Tsinghua Centre for Student Learning and Development)（2021-2023）
-* 中国发展研究基金会儿童发展中心政策研究实习生(Policy Research Intern, Child Development Centre, China Development Research Foundation)（2020）
+* 清华大学研究生培养学生咨询委员会委员（2021-2023）,2021-2022年度优秀委员
+* 清华大学学生学习发展中心写作助理项目学生咨询师（2021-2023）
+* 中国发展研究基金会儿童发展中心政策研究实习生（2020）
 * 期刊审稿人: Studies in Higher Education， Journal of Engineering Education, Higher Education Policy, Asia Pacific Journal of Education, Studies in Engineering Education, International Journal of Chinese Education, Education Sciences
 * 会议审稿人: Comparative&International Education Society(CIES)2023
 
