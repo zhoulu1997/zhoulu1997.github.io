@@ -46,6 +46,7 @@ redirect_from:
 
 * 周璐. 中国大百科全书第三版.教育学科条目：现代课程，后现代课程
 (Lu Zhou. Encyclopedia of China( 3rd version). Entry: Modern Curriculum, Postmodern Curriculum)
+* 史静寰，曹雪萌，周璐，谢婉怡，巴音. 《中国妇女教育发展报告NO.4——新时期女大学生的成长与发展》.章节：高等教育普及化阶段中国女大学生的学习体验与收获.社会科学文献出版社
 * 文雯，王嵩迪，周璐.清华大学智库政策专报《在线教育“新常态”下我国大学生在线课程学习表现、问题与对策》,2022.8
 * 文雯，王嵩迪，周璐，李曼丽.清华大学智库政策专报《后疫情时代中美高等教育国际化发展比较及政策建议》,已报送国办，2022.4
 * 文雯，王嵩迪，周璐，李曼丽.清华大学智库政策专报《后疫情时代中美在线高等教育发展比较及政策建议》，已报送中办和国办,2021.11
@@ -64,7 +65,7 @@ redirect_from:
   
 ## 其他 Others
 
-* 清华大学研究生培养学生咨询委员会委员（2021-2023）,2021-2022年度优秀委员
+* 清华大学研究生培养学生咨询委员会副主席（2024-2025），委员（2021-2025）,2021-2022年度优秀委员
 * 清华大学学生学习发展中心写作助理项目学生咨询师（2021-2023）
 * 中国发展研究基金会儿童发展中心政策研究实习生（2020）
 * 期刊审稿人: Studies in Higher Education， Journal of Engineering Education, Higher Education Policy, Asia Pacific Journal of Education, Studies in Engineering Education, International Journal of Chinese Education, Education Sciences
