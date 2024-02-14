@@ -33,6 +33,7 @@ redirect_from:
 
   
 ## 学术会议 Conferences
+* Wen Wen, Lu Zhou, Yizhuo Chen. Evaluating the Quality of University Curriculum: A Theoretical Framework, Methodology, and Empirical Analysis. International Test Commission(ITC Conference 2024) ,2024.7
 * Lu Zhou, Die Hu. The Impact of College Experience on Female Students’ Self-Perceived Employability in STEM Majors.the 68th Annual Meeting of the Comparative and International Education Society(CIES 2024), 2024.3
 * 周璐，文雯. 深入理解高等教育课程：思想与理论. 2023年华东师范大学高等教育学博士生学术论坛.2023.7.获优秀论文奖
 * 周璐. 计算机专业本科课程体系演变研究. 第五届全国高校高等教育学研究生学术论坛. 2023.6. 海报论文.
