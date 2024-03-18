@@ -21,6 +21,7 @@ redirect_from:
 
 
 ## 期刊文章 Journal Articles
+* Lu Zhou. Navigating science education: motivations and challenges for primary school gifted children in Chinese science museums[J]. Journal of Gifted Education and Creativity, 2024.11(1), 13-22.【[read pdf](https://github.com/zhoulu1997/zhoulu1997.github.io/blob/master/files/Navigating%20science%20education_%20motivations%20and%20challenges%20for%20primary%20school%20gifted%20children%20in%20Chinese%20science%20museums%5B%231408852%5D-3616014.pdf)】
 * 文雯，周璐*，杨皓麟.实践驱动的拔尖创新人才培养——以色列“特比昂”人才培养项目研究[J].世界教育信息,已录用
 * Wen Wen, Lu Zhou, Die Hu, Mingyu Zhang, Zehua Yan, Xiaofeng Tang. The impact of college experience on female students’ self-perceived employability in STEM majors[J]. Frontiers in Psychology,2023.14:1282934.[SSCI] 【[read PDF](https://github.com/zhoulu1997/zhoulu1997.github.io/blob/master/files/fpsyg-14-1282934.pdf)】
 * Wen Wen, Lu Zhou*, Mingyu Zhang, Die Hu. Urban/Rural Disparities in Access to Elite Higher Education: The Case of Tsinghua University[J]. International Journal of Chinese Education, 2023.12(02),1-12.【[read PDF](https://github.com/zhoulu1997/zhoulu1997.github.io/blob/master/files/CNE2023.pdf)】
