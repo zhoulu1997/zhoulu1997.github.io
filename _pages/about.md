@@ -21,6 +21,7 @@ redirect_from:
 
 
 ## 期刊文章 Journal Articles
+* 周璐，文雯.大学课程知识共识的形成及演变：以计算机科学为例[J].清华大学教育研究,已录用
 * Lu Zhou. Navigating science education: motivations and challenges for primary school gifted children in Chinese science museums[J]. Journal of Gifted Education and Creativity, 2024.11(1), 13-22.【[read pdf](https://github.com/zhoulu1997/zhoulu1997.github.io/blob/master/files/Navigating%20science%20education_%20motivations%20and%20challenges%20for%20primary%20school%20gifted%20children%20in%20Chinese%20science%20museums%5B%231408852%5D-3616014.pdf)】
 * 文雯，周璐*，杨皓麟.实践驱动的拔尖创新人才培养——以色列“特比昂”人才培养项目研究[J].世界教育信息,已录用
 * Wen Wen, Lu Zhou, Die Hu, Mingyu Zhang, Zehua Yan, Xiaofeng Tang. The impact of college experience on female students’ self-perceived employability in STEM majors[J]. Frontiers in Psychology,2023.14:1282934.[SSCI] 【[read PDF](https://github.com/zhoulu1997/zhoulu1997.github.io/blob/master/files/fpsyg-14-1282934.pdf)】
@@ -62,6 +63,7 @@ redirect_from:
   
 ## 科研项目 Research Projects
 * 主持 清华大学研究生教育教学改革项目“研究生助教制度优化研究”（2023-2024）
+* 参与 美国国家科学基金会项目"The Nature of Engineering Work? Curricular Messaging and Alignment with Diverse Undergraduate Students' Values, Interests, and Engineering Intentions"，参与数据分析等工作（2024）
 * 参与 教育部高等教育司委托项目“拔尖创新人才能力培养模式研究”，作为核心成员负责部分报告撰写工作（2024）
 * 参与 美国国家科学基金会项目“Creating a Teaching Engineering Equity Center”，参与数据分析、报告撰写等工作（2023-2024）
 * 参与 国家社科基金教育学课题重点项目“‘冷门绝学’基础学科的人才培养体系研究”，作为核心成员负责一个子课题（课程与教学）的协调与执行工作（2022-2024）
