@@ -36,6 +36,7 @@ redirect_from:
 
   
 ## 学术会议 Conferences
+* Hayley Nielsen, Berenice Cabrera, Amber Williams,Lu Zhou, Laura Wood, Lisa Lattuca. Instructional Practices that Support Equity-Centered Engineering Education.2024 ASHE Annual Conference,2024.11
 * Wen Wen, Lu Zhou, Yizhuo Chen. Evaluating the Quality of University Curriculum: A Theoretical Framework, Methodology, and Empirical Analysis. International Test Commission(ITC Conference 2024) ,2024.7
 * Laura Wood, Angie Kim, Amber Williams, Berenice Cabrera, Hayley Nielsen, Lu Zhou, Lisa Lattuca. Developing a Framework for Equity-Centered Engineering Curriculum and Instruction. 2024 ASEE Annual Conference & Exposition, 2024.6
 * Lu Zhou, Die Hu. The Impact of College Experience on Female Students’ Self-Perceived Employability in STEM Majors.the 68th Annual Meeting of the Comparative and International Education Society(CIES 2024), 2024.3
