@@ -21,6 +21,8 @@ redirect_from:
 
 
 ## 期刊文章 Journal Articles
+* 周璐.弹幕背后的探究社区：初中生在线学习互动行为分析[J].少年儿童研究，已录用
+* 文雯，周璐*，陈毅卓.高深知识视角下的大学课程：内涵与评价[J].江苏高教，已录用
 * 周璐，文雯.大学课程知识共识的形成及演变：以计算机科学为例[J].清华大学教育研究,已录用
 * Lu Zhou. Navigating science education: motivations and challenges for primary school gifted children in Chinese science museums[J]. Journal of Gifted Education and Creativity, 2024.11(1), 13-22.【[read pdf](https://github.com/zhoulu1997/zhoulu1997.github.io/blob/master/files/Navigating%20science%20education_%20motivations%20and%20challenges%20for%20primary%20school%20gifted%20children%20in%20Chinese%20science%20museums%5B%231408852%5D-3616014.pdf)】
 * 文雯，周璐*，杨皓麟.实践驱动的拔尖创新人才培养——以色列“特比昂”人才培养项目研究[J].世界教育信息,2024,37(05),43-53.【[read PDF](https://github.com/zhoulu1997/zhoulu1997.github.io/blob/master/files/%E7%BB%88%E7%A8%BF_%E5%AE%9E%E8%B7%B5%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%8B%94%E5%B0%96%E5%88%9B%E6%96%B0%E4%BA%BA%E6%89%8D%E5%9F%B9%E5%85%BB(1).pdf)】
@@ -36,7 +38,7 @@ redirect_from:
 
   
 ## 学术会议 Conferences
-
+*	Hayley Nielsen, Berenice Cabrera, Amber Williams, Lu Zhou, Laura Wood, Lisa Lattuca. Instructional Practices that Support Equity-Centered Engineering Education.2024 ASHE Annual Conference,2024.11
 * Wen Wen, Lu Zhou, Yizhuo Chen. Evaluating the Quality of University Curriculum: A Theoretical Framework, Methodology, and Empirical Analysis. International Test Commission(ITC Conference 2024) ,2024.7
 * Laura Wood, Angie Kim, Amber Williams, Berenice Cabrera, Hayley Nielsen, Lu Zhou, Lisa Lattuca. Developing a Framework for Equity-Centered Engineering Curriculum and Instruction. 2024 ASEE Annual Conference & Exposition, 2024.6
 * Lu Zhou, Die Hu. The Impact of College Experience on Female Students’ Self-Perceived Employability in STEM Majors.the 68th Annual Meeting of the Comparative and International Education Society(CIES 2024), 2024.3
@@ -54,7 +56,9 @@ redirect_from:
 * 周璐. 中国大百科全书第三版.教育学科条目：现代课程，后现代课程
 (Lu Zhou. Encyclopedia of China( 3rd version). Entry: Modern Curriculum, Postmodern Curriculum)
 * 史静寰，曹雪萌，周璐，谢婉怡，巴音. 《中国妇女教育发展报告NO.4——新时期女大学生的成长与发展》.章节：高等教育普及化阶段中国女大学生的学习体验与收获.社会科学文献出版社,待出版
+* 文雯，陈毅卓，周璐，杨熙，姜雨辰. 人工智能领域人才战略规划和人才培养举措.清华大学人工智能教育白皮书，2024.8
 * 周璐.《借鉴与超越：中美高等教育的比较与审思》.章节：中美本科人才培养的对比分析.湖北教育出版社,待出版
+* 文雯，杨皓麟，周璐.教育部高等教育司专报《以色列拔尖创新人才早期选拔与培养的经验与启示》,2024.7
 * 文雯，周璐.教育部高等教育司专报《美国学术国际影响力的现状、经验及对我启示》,2024.3
 * 文雯，杨皓麟，周璐. 教育部高等教育司专报《实践需求驱动的拔尖创新人才培养——以色列“特比昂”人才培养项目研究》，获司长批示，2024.1
 * 文雯，王嵩迪，周璐.清华大学智库政策专报《在线教育“新常态”下我国大学生在线课程学习表现、问题与对策》,2022.8
