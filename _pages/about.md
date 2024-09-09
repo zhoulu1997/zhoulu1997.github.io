@@ -21,10 +21,12 @@ redirect_from:
 
 
 ## 期刊文章 Journal Articles
-* 周璐.弹幕背后的探究社区：初中生在线学习互动行为分析[J].少年儿童研究，已录用
-* 文雯，周璐*，陈毅卓.高深知识视角下的大学课程：内涵与评价[J].江苏高教，已录用
+* 周璐.弹幕背后的探究社区：初中生在线学习互动行为分析[J].少年儿童研究,2024,(05):11-19.【[read PDF](https://github.com/zhoulu1997/zhoulu1997.github.io/blob/master/files/%E5%BC%B9%E5%B9%95%E8%83%8C%E5%90%8E%E7%9A%84%E6%8E%A2%E7%A9%B6%E7%A4%BE%E5%8C%BA%EF%BC%9A%E5%88%9D%E4%B8%AD%E7%94%9F%E5%9C%A8%E7%BA%BF%E5%AD%A6%E4%B9%A0%E4%BA%92%E5%8A%A8%E8%A1%8C%E4%B8%BA%E5%88%86%E6%9E%90_%E5%91%A8%E7%92%90.pdf)】
+* 文雯，周璐*，陈毅卓.高深知识视角下的大学课程：内涵与评价[J].江苏高教,2024,(08):82-90.【[read PDF](https://github.com/zhoulu1997/zhoulu1997.github.io/blob/master/files/%E9%AB%98%E6%B7%B1%E7%9F%A5%E8%AF%86%E8%A7%86%E8%A7%92%E4%B8%8B%E7%9A%84%E5%A4%A7%E5%AD%A6%E8%AF%BE%E7%A8%8B%EF%BC%9A%E5%86%85%E6%B6%B5%E5%8F%8A%E8%AF%84%E4%BB%B7_%E6%96%87%E9%9B%AF.pdf)】
+* Lu Zhou. Book Review: Knowledge, Content, Curriculum and Didaktik: Beyond Social Realism[J]. International Journal of Chinese Education, 2024.13(03),1-3.
 * 周璐，文雯.大学课程知识共识的形成及演变：以计算机科学为例[J].清华大学教育研究,已录用
-* Lu Zhou. Navigating science education: motivations and challenges for primary school gifted children in Chinese science museums[J]. Journal of Gifted Education and Creativity, 2024.11(1), 13-22.【[read pdf](https://github.com/zhoulu1997/zhoulu1997.github.io/blob/master/files/Navigating%20science%20education_%20motivations%20and%20challenges%20for%20primary%20school%20gifted%20children%20in%20Chinese%20science%20museums%5B%231408852%5D-3616014.pdf)】
+* Songdi Wang, Jiexiu Chen, Lu Zhou. After admission: The emotional suffering of students enrolled through the Rural Students Quota Plan in China's elite universities[J]. European Journal of Education, Accepted.
+* Lu Zhou. Navigating science education: motivations and challenges for primary school gifted children in Chinese science museums[J]. Journal of Gifted Education and Creativity, 2024.11(1), 13-22.【[read PDF](https://github.com/zhoulu1997/zhoulu1997.github.io/blob/master/files/Navigating%20science%20education_%20motivations%20and%20challenges%20for%20primary%20school%20gifted%20children%20in%20Chinese%20science%20museums%5B%231408852%5D-3616014.pdf)】
 * 文雯，周璐*，杨皓麟.实践驱动的拔尖创新人才培养——以色列“特比昂”人才培养项目研究[J].世界教育信息,2024,37(05),43-53.【[read PDF](https://github.com/zhoulu1997/zhoulu1997.github.io/blob/master/files/%E7%BB%88%E7%A8%BF_%E5%AE%9E%E8%B7%B5%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%8B%94%E5%B0%96%E5%88%9B%E6%96%B0%E4%BA%BA%E6%89%8D%E5%9F%B9%E5%85%BB(1).pdf)】
 * Wen Wen, Lu Zhou, Die Hu, Mingyu Zhang, Zehua Yan, Xiaofeng Tang. The impact of college experience on female students’ self-perceived employability in STEM majors[J]. Frontiers in Psychology,2023.14:1282934.[SSCI] 【[read PDF](https://github.com/zhoulu1997/zhoulu1997.github.io/blob/master/files/fpsyg-14-1282934.pdf)】
 * Wen Wen, Lu Zhou*, Mingyu Zhang, Die Hu. Urban/Rural Disparities in Access to Elite Higher Education: The Case of Tsinghua University[J]. International Journal of Chinese Education, 2023.12(02),1-12.【[read PDF](https://github.com/zhoulu1997/zhoulu1997.github.io/blob/master/files/CNE2023.pdf)】
