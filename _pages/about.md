@@ -7,15 +7,19 @@ redirect_from:
   - /about/
   - /about.html
 ---
+## 工作经历 Work Experience
+
+* 清华大学自动化系，博士后，2025-
+* Postdoctoral Researcher, Department of Automation, Tsinghua University, 2025-
 
 ## 教育经历 Education
 
-* 清华大学信息学院自动化系，工学学士，2015-2019
+* 清华大学自动化系，工学学士，2015-2019
 * Bachelor of Engineering in Automation, School of Information Science, Tsinghua University, 2015-2019
 * 清华大学教育研究院，管理学硕士（辅修清华大学大数据能力提升项目），2019-2022 
 * Master of Management in Public Administration（Minor in data science project）, Institution of Education, Tsinghua University, 2019-2022
-* 清华大学教育研究院，教育学博士研究生在读,2022-
-* Ph.D student in Higher Education, Institution of Education, Tsinghua University,2022-
+* 清华大学教育研究院，教育学博士,2022-2025
+* Ph.D. in Higher Education, Institution of Education, Tsinghua University,2022-2025
 * 密歇根大学安娜堡分校教育学院，联合培养博士生，2023-2024
 * Visiting scholar in Higher Education, Marsal Family School of Education, University of Michigan, Ann Arbor,2023-2024
 
@@ -41,6 +45,7 @@ redirect_from:
 
   
 ## 学术会议 Conferences
+*  Laura Wood, Berenice Alejandra Cabrera, Hayley N Nielsen, Amber N Williams, Lu Zhou, Lisa R Lattuca, Grenmarie Agresar, Shanna R Daly, Joi-Lynn Mondisa, Erika A Mosyjowski, Steve J Skerlos. Principles of Equity-Centered Engineering Education: An Element of a Curricular and Instructional Change Framework. 2025 ASEE Annual Conference & Exposition, 2025.6
 *	Hayley Nielsen, Berenice Cabrera, Amber Williams, Lu Zhou, Laura Wood, Lisa Lattuca. Instructional Practices that Support Equity-Centered Engineering Education.2024 ASHE Annual Conference,2024.11
 * Wen Wen, Lu Zhou, Yizhuo Chen. Evaluating the Quality of University Curriculum: A Theoretical Framework, Methodology, and Empirical Analysis. International Test Commission(ITC Conference 2024) ,2024.7
 * Laura Wood, Angie Kim, Amber Williams, Berenice Cabrera, Hayley Nielsen, Lu Zhou, Lisa Lattuca. Developing a Framework for Equity-Centered Engineering Curriculum and Instruction. 2024 ASEE Annual Conference & Exposition, 2024.6
@@ -58,7 +63,7 @@ redirect_from:
 
 * 周璐. 中国大百科全书第三版.教育学科条目：现代课程，后现代课程
 (Lu Zhou. Encyclopedia of China( 3rd version). Entry: Modern Curriculum, Postmodern Curriculum)
-* 史静寰，曹雪萌，周璐，谢婉怡，巴音. 《中国妇女教育发展报告NO.4——新时期女大学生的成长与发展》.章节：高等教育普及化阶段中国女大学生的学习体验与收获.社会科学文献出版社,待出版
+* 史静寰，曹雪萌，周璐，谢婉怡，巴音. 《中国妇女教育发展报告NO.4——新时期女大学生的成长与发展》.章节：高等教育普及化阶段中国女大学生的学习体验与收获.社会科学文献出版社,2025
 * 文雯，陈毅卓，周璐，杨熙，姜雨辰. 人工智能领域人才战略规划和人才培养举措.清华大学人工智能教育白皮书，2024.8
 * 周璐.《借鉴与超越：中美高等教育的比较与审思》.章节：中美本科人才培养的对比分析.湖北教育出版社,待出版
 * 文雯，杨皓麟，周璐.教育部高等教育司专报《以色列拔尖创新人才早期选拔与培养的经验与启示》,2024.7
@@ -85,7 +90,7 @@ redirect_from:
 ## 其他 Others
 
 * 清华大学研究生培养学生咨询委员会副主席（2024-2025），委员（2021-2025）,2021-2022年度优秀委员
-* 清华大学学生学习发展中心写作助理项目学生咨询师（2021-2023）
+* 清华大学学生学习发展中心写作助理项目学生咨询师（2021-2025）
 * 中国发展研究基金会儿童发展中心政策研究实习生（2020）
 * 期刊审稿人: Studies in Higher Education， Journal of Engineering Education, Higher Education Policy, Asia Pacific Journal of Education, Studies in Engineering Education, International Journal of Chinese Education, Policy Reviews in Higher Education
 * 会议审稿人: Comparative&International Education Society(CIES)2023
