@@ -9,8 +9,8 @@ redirect_from:
 ---
 ## 工作经历 Work Experience
 
-* 清华大学自动化系，博士后，2025-
-* Postdoctoral Researcher, Department of Automation, Tsinghua University, 2025-
+* 清华大学自动化系，博士后，2025-2027
+* Postdoctoral Researcher, Department of Automation, Tsinghua University, 2025-2027
 
 ## 教育经历 Education
 
@@ -25,11 +25,13 @@ redirect_from:
 
 
 ## 期刊文章 Journal Articles
+* 文雯,周璐,袁佳鑫.现代大学书院制课程体系改革的实践探索——以清华大学为例[J].大学教育科学,2025,(05):120-126.
+* Wen W, Chang L, Wu Y, et al. How Have China's STI Policies Shaped EU-China Cooperation?[J]. Journal of Studies in International Education, 2025, 29(2): 197-213.
+* 周璐，文雯.大学课程知识共识的形成及演变：以计算机科学为例[J].清华大学教育研究,46(05):144-153.
 * 周璐，杨皓麟，文雯.以色列拔尖创新人才早期发现与培养：“未来科学家”计划的启示[J].中小学科学教育,2025,2(03):74-80.【[read PDF](https://github.com/zhoulu1997/zhoulu1997.github.io/blob/master/files/%E4%BB%A5%E8%89%B2%E5%88%97%E6%8B%94%E5%B0%96%E5%88%9B%E6%96%B0%E4%BA%BA%E6%89%8D%E6%97%A9%E6%9C%9F%E5%8F%91%E7%8E%B0...%EF%BC%9A%E2%80%9C%E6%9C%AA%E6%9D%A5%E7%A7%91%E5%AD%A6%E5%AE%B6%E2%80%9D%E8%AE%A1%E5%88%92%E7%9A%84%E5%90%AF%E7%A4%BA_%E5%91%A8%E7%92%90.pdf)】
 * 周璐.弹幕背后的探究社区：初中生在线学习互动行为分析[J].少年儿童研究,2024,(05):11-19.【[read PDF](https://github.com/zhoulu1997/zhoulu1997.github.io/blob/master/files/%E5%BC%B9%E5%B9%95%E8%83%8C%E5%90%8E%E7%9A%84%E6%8E%A2%E7%A9%B6%E7%A4%BE%E5%8C%BA%EF%BC%9A%E5%88%9D%E4%B8%AD%E7%94%9F%E5%9C%A8%E7%BA%BF%E5%AD%A6%E4%B9%A0%E4%BA%92%E5%8A%A8%E8%A1%8C%E4%B8%BA%E5%88%86%E6%9E%90_%E5%91%A8%E7%92%90.pdf)】
 * 文雯，周璐*，陈毅卓.高深知识视角下的大学课程：内涵与评价[J].江苏高教,2024,(08):82-90.【[read PDF](https://github.com/zhoulu1997/zhoulu1997.github.io/blob/master/files/%E9%AB%98%E6%B7%B1%E7%9F%A5%E8%AF%86%E8%A7%86%E8%A7%92%E4%B8%8B%E7%9A%84%E5%A4%A7%E5%AD%A6%E8%AF%BE%E7%A8%8B%EF%BC%9A%E5%86%85%E6%B6%B5%E5%8F%8A%E8%AF%84%E4%BB%B7_%E6%96%87%E9%9B%AF.pdf)】
 * Lu Zhou. Book Review: Knowledge, Content, Curriculum and Didaktik: Beyond Social Realism[J]. International Journal of Chinese Education, 2024.13(03),1-3.【[read PDF](https://github.com/zhoulu1997/zhoulu1997.github.io/blob/master/files/zhou-2025-book-review-knowledge-content-curriculum-and-didaktik-beyond-social-realism.pdf)】
-* 周璐，文雯.大学课程知识共识的形成及演变：以计算机科学为例[J].清华大学教育研究,已录用
 * Songdi Wang, Jiexiu Chen, Lu Zhou. After admission: The emotional suffering of students enrolled through the Rural Students Quota Plan in China's elite universities[J]. European Journal of Education, 2024,59(4).【[read PDF](https://github.com/zhoulu1997/zhoulu1997.github.io/blob/master/files/Euro%20J%20of%20Education%20-%202024%20-%20Wang%20-%20After%20Admission%20%20The%20Emotional%20Suffering%20of%20Students%20Enrolled%20Through%20the%20Rural.pdf)】
 * Lu Zhou. Navigating science education: motivations and challenges for primary school gifted children in Chinese science museums[J]. Journal of Gifted Education and Creativity, 2024.11(1), 13-22.【[read PDF](https://github.com/zhoulu1997/zhoulu1997.github.io/blob/master/files/Navigating%20science%20education_%20motivations%20and%20challenges%20for%20primary%20school%20gifted%20children%20in%20Chinese%20science%20museums%5B%231408852%5D-3616014.pdf)】
 * 文雯，周璐*，杨皓麟.实践驱动的拔尖创新人才培养——以色列“特比昂”人才培养项目研究[J].世界教育信息,2024,37(05),43-53.【[read PDF](https://github.com/zhoulu1997/zhoulu1997.github.io/blob/master/files/%E7%BB%88%E7%A8%BF_%E5%AE%9E%E8%B7%B5%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%8B%94%E5%B0%96%E5%88%9B%E6%96%B0%E4%BA%BA%E6%89%8D%E5%9F%B9%E5%85%BB(1).pdf)】
@@ -45,7 +47,8 @@ redirect_from:
 
   
 ## 学术会议 Conferences
-*  Laura Wood, Berenice Alejandra Cabrera, Hayley N Nielsen, Amber N Williams, Lu Zhou, Lisa R Lattuca, Grenmarie Agresar, Shanna R Daly, Joi-Lynn Mondisa, Erika A Mosyjowski, Steve J Skerlos. Principles of Equity-Centered Engineering Education: An Element of a Curricular and Instructional Change Framework. 2025 ASEE Annual Conference & Exposition, 2025.6
+* Wen Wen, Lu Zhou. Intelligent Transformation: Mapping the Integration of Artificial Intelligence in Chinese Higher Education. 2025 Cambridge Generative AI in Education Conference, 2025.10
+* Laura Wood, Berenice Alejandra Cabrera, Hayley N Nielsen, Amber N Williams, Lu Zhou, Lisa R Lattuca, Grenmarie Agresar, Shanna R Daly, Joi-Lynn Mondisa, Erika A Mosyjowski, Steve J Skerlos. Principles of Equity-Centered Engineering Education: An Element of a Curricular and Instructional Change Framework. 2025 ASEE Annual Conference & Exposition, 2025.6
 *	Hayley Nielsen, Berenice Cabrera, Amber Williams, Lu Zhou, Laura Wood, Lisa Lattuca. Instructional Practices that Support Equity-Centered Engineering Education.2024 ASHE Annual Conference,2024.11
 * Wen Wen, Lu Zhou, Yizhuo Chen. Evaluating the Quality of University Curriculum: A Theoretical Framework, Methodology, and Empirical Analysis. International Test Commission(ITC Conference 2024) ,2024.7
 * Laura Wood, Angie Kim, Amber Williams, Berenice Cabrera, Hayley Nielsen, Lu Zhou, Lisa Lattuca. Developing a Framework for Equity-Centered Engineering Curriculum and Instruction. 2024 ASEE Annual Conference & Exposition, 2024.6
@@ -63,6 +66,7 @@ redirect_from:
 
 * 周璐. 中国大百科全书第三版.教育学科条目：现代课程，后现代课程
 (Lu Zhou. Encyclopedia of China( 3rd version). Entry: Modern Curriculum, Postmodern Curriculum)
+* Wen, W., Chen, Y., Jiang, Y., Zhou, L., & Yang, X. (2025). Nurturing AI Talent in Higher Education. In The Global Development of AI-Empowered Higher Education: Beyond the Horizon (pp. 123-170). Singapore: Springer Nature Singapore.
 * 史静寰，曹雪萌，周璐，谢婉怡，巴音. 《中国妇女教育发展报告NO.4——新时期女大学生的成长与发展》.章节：高等教育普及化阶段中国女大学生的学习体验与收获.社会科学文献出版社,2025
 * 文雯，陈毅卓，周璐，杨熙，姜雨辰. 人工智能领域人才战略规划和人才培养举措.清华大学人工智能教育白皮书，2024.8
 * 周璐.《借鉴与超越：中美高等教育的比较与审思》.章节：中美本科人才培养的对比分析.湖北教育出版社,待出版
