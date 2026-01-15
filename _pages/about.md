@@ -25,9 +25,11 @@ redirect_from:
 
 
 ## 期刊文章 Journal Articles
+* Zhou L. Graduate teaching assistants at research universities: current practices, challenges, and paths to improvement[J]. Journal for the Education of Gifted Young Scientists, 2025, 13(4): 227-237.
+* Zhou L, Zhang Z, Wang S. Broad Versus Specialized: Student Engagement Among Art Students in Chinese Universities[J]. International Journal of Chinese Education, 2025, 14(3): 2212585X251391833.
 * 文雯,周璐,袁佳鑫.现代大学书院制课程体系改革的实践探索——以清华大学为例[J].大学教育科学,2025,(05):120-126.
 * Wen W, Chang L, Wu Y, et al. How Have China's STI Policies Shaped EU-China Cooperation?[J]. Journal of Studies in International Education, 2025, 29(2): 197-213.
-* 周璐，文雯.大学课程知识共识的形成及演变：以计算机科学为例[J].清华大学教育研究,46(05):144-153.
+* 周璐，文雯.大学课程知识共识的形成及演变：以计算机科学为例[J].清华大学教育研究,2025,46(05):144-153.
 * 周璐，杨皓麟，文雯.以色列拔尖创新人才早期发现与培养：“未来科学家”计划的启示[J].中小学科学教育,2025,2(03):74-80.【[read PDF](https://github.com/zhoulu1997/zhoulu1997.github.io/blob/master/files/%E4%BB%A5%E8%89%B2%E5%88%97%E6%8B%94%E5%B0%96%E5%88%9B%E6%96%B0%E4%BA%BA%E6%89%8D%E6%97%A9%E6%9C%9F%E5%8F%91%E7%8E%B0...%EF%BC%9A%E2%80%9C%E6%9C%AA%E6%9D%A5%E7%A7%91%E5%AD%A6%E5%AE%B6%E2%80%9D%E8%AE%A1%E5%88%92%E7%9A%84%E5%90%AF%E7%A4%BA_%E5%91%A8%E7%92%90.pdf)】
 * 周璐.弹幕背后的探究社区：初中生在线学习互动行为分析[J].少年儿童研究,2024,(05):11-19.【[read PDF](https://github.com/zhoulu1997/zhoulu1997.github.io/blob/master/files/%E5%BC%B9%E5%B9%95%E8%83%8C%E5%90%8E%E7%9A%84%E6%8E%A2%E7%A9%B6%E7%A4%BE%E5%8C%BA%EF%BC%9A%E5%88%9D%E4%B8%AD%E7%94%9F%E5%9C%A8%E7%BA%BF%E5%AD%A6%E4%B9%A0%E4%BA%92%E5%8A%A8%E8%A1%8C%E4%B8%BA%E5%88%86%E6%9E%90_%E5%91%A8%E7%92%90.pdf)】
 * 文雯，周璐*，陈毅卓.高深知识视角下的大学课程：内涵与评价[J].江苏高教,2024,(08):82-90.【[read PDF](https://github.com/zhoulu1997/zhoulu1997.github.io/blob/master/files/%E9%AB%98%E6%B7%B1%E7%9F%A5%E8%AF%86%E8%A7%86%E8%A7%92%E4%B8%8B%E7%9A%84%E5%A4%A7%E5%AD%A6%E8%AF%BE%E7%A8%8B%EF%BC%9A%E5%86%85%E6%B6%B5%E5%8F%8A%E8%AF%84%E4%BB%B7_%E6%96%87%E9%9B%AF.pdf)】
@@ -39,6 +41,7 @@ redirect_from:
 * Wen Wen, Lu Zhou*, Mingyu Zhang, Die Hu. Urban/Rural Disparities in Access to Elite Higher Education: The Case of Tsinghua University[J]. International Journal of Chinese Education, 2023.12(02),1-12.【[read PDF](https://github.com/zhoulu1997/zhoulu1997.github.io/blob/master/files/CNE2023.pdf)】
 * 文雯，周璐，马志新.在线教育常态化背景下大学生在线课程学情分析[J].教育发展研究,2023(05),28-36.[CSSCI]【[read PDF](https://github.com/zhoulu1997/zhoulu1997.github.io/blob/master/files/%E5%9C%A8%E7%BA%BF%E6%95%99%E8%82%B2%E5%B8%B8%E6%80%81%E5%8C%96%E8%83%8C%E6%99%AF%E4%B8%8B%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%9C%A8%E7%BA%BF%E8%AF%BE%E7%A8%8B%E5%AD%A6%E6%83%85%E5%88%86%E6%9E%90_%E6%96%87%E9%9B%AF.pdf)】
 * 周璐. 我国职业能力研究述评[J].职业教育,2023(09),36-40.【[read PDF](https://github.com/zhoulu1997/zhoulu1997.github.io/blob/master/files/%E6%88%91%E5%9B%BD%E8%81%8C%E4%B8%9A%E8%83%BD%E5%8A%9B%E7%A0%94%E7%A9%B6%E8%BF%B0%E8%AF%84_%E5%91%A8%E7%92%90.pdf)】
+* Zhou L, He K. American Higher Education Curricula in 19th Century[J]. London: Qeios, 2023.
 * Wen Wen, Lu Zhou, Die Hu. Navigating and Negotiating Global Science: Tensions in China’s National Science System[J]. Studies in Higher Education, 2022.[SSCI]【[read PDF](https://github.com/zhoulu1997/zhoulu1997.github.io/blob/7b9ac4492ac8a7d11327c5922c5e3b0c73a2d06c/files/Navigating%20and%20negotiating%20global%20science%20tensions%20in%20China%20s%20national%20science%20system.pdf)】
 * 文雯，周璐，芮振华，陈龙飞. 形似与神异：中美研究型大学课程体系比较[J]. 高等工程教育研究,2022（01）,175-181.[CSSCI] 【[read PDF](https://github.com/zhoulu1997/zhoulu1997.github.io/blob/7b9ac4492ac8a7d11327c5922c5e3b0c73a2d06c/files/2022Engineering.pdf)】
 * Lu Zhou, Xi Hong. Book Review: Review of “Global University President Leadership”[J]. International Journal of Chinese Education, 2021.【[read PDF](https://github.com/zhoulu1997/zhoulu1997.github.io/blob/7b9ac4492ac8a7d11327c5922c5e3b0c73a2d06c/files/bookreview2021.pdf)】
@@ -47,7 +50,10 @@ redirect_from:
 
   
 ## 学术会议 Conferences
+* 文雯，周璐.能力的知识根基：本科生科研的认知机制分析. 中国大学生学习与发展追踪研究（CCSS）2026年会. 2026.1
+* 周璐. 人工智能时代重审“高深知识”：教与学的认识论反思. 中国高等教育学会高等教育学专业委员会2025年学术年会. 2025.11
 * Wen Wen, Lu Zhou. Intelligent Transformation: Mapping the Integration of Artificial Intelligence in Chinese Higher Education. 2025 Cambridge Generative AI in Education Conference, 2025.10
+* 文雯，周璐. 本科生科研经历促进元认知发展的关键机制分析.第一届清华-牛津高等教育研讨会.2025.9
 * Laura Wood, Berenice Alejandra Cabrera, Hayley N Nielsen, Amber N Williams, Lu Zhou, Lisa R Lattuca, Grenmarie Agresar, Shanna R Daly, Joi-Lynn Mondisa, Erika A Mosyjowski, Steve J Skerlos. Principles of Equity-Centered Engineering Education: An Element of a Curricular and Instructional Change Framework. 2025 ASEE Annual Conference & Exposition, 2025.6
 *	Hayley Nielsen, Berenice Cabrera, Amber Williams, Lu Zhou, Laura Wood, Lisa Lattuca. Instructional Practices that Support Equity-Centered Engineering Education.2024 ASHE Annual Conference,2024.11
 * Wen Wen, Lu Zhou, Yizhuo Chen. Evaluating the Quality of University Curriculum: A Theoretical Framework, Methodology, and Empirical Analysis. International Test Commission(ITC Conference 2024) ,2024.7
@@ -68,6 +74,8 @@ redirect_from:
 (Lu Zhou. Encyclopedia of China( 3rd version). Entry: Modern Curriculum, Postmodern Curriculum)
 * Wen, W., Chen, Y., Jiang, Y., Zhou, L., & Yang, X. (2025). Nurturing AI Talent in Higher Education. In The Global Development of AI-Empowered Higher Education: Beyond the Horizon (pp. 123-170). Singapore: Springer Nature Singapore.
 * 史静寰，曹雪萌，周璐，谢婉怡，巴音. 《中国妇女教育发展报告NO.4——新时期女大学生的成长与发展》.章节：高等教育普及化阶段中国女大学生的学习体验与收获.社会科学文献出版社,2025
+* Wen, W., Chen, Y., Jiang, Y., Zhou, L., & Yang, X. (2025). Nurturing AI Talent in Higher Education. In The Global Development of AI-Empowered Higher Education: Beyond the Horizon (pp. 123-170). Singapore: Springer Nature Singapore.
+* 文雯，周璐. 教育部高等教育司专报《人文社会科学中文大语言模型建设的必要性与策略建议》,2026.1
 * 文雯，陈毅卓，周璐，杨熙，姜雨辰. 人工智能领域人才战略规划和人才培养举措.清华大学人工智能教育白皮书，2024.8
 * 周璐.《借鉴与超越：中美高等教育的比较与审思》.章节：中美本科人才培养的对比分析.湖北教育出版社,待出版
 * 文雯，杨皓麟，周璐.教育部高等教育司专报《以色列拔尖创新人才早期选拔与培养的经验与启示》,2024.7
@@ -94,9 +102,11 @@ redirect_from:
 ## 其他 Others
 
 * 清华大学研究生培养学生咨询委员会副主席（2024-2025），委员（2021-2025）,2021-2022年度优秀委员
-* 清华大学学生学习发展中心写作助理项目学生咨询师（2021-2025）
+* 清华大学学生学习发展中心写作助理项目高级咨询师（2021-2025）
 * 中国发展研究基金会儿童发展中心政策研究实习生（2020）
+* 期刊编辑：Journal of Contemporary Education and Teaching Research编委会成员，International Journal of Chinese Education特刊编辑
 * 期刊审稿人: Studies in Higher Education， Journal of Engineering Education, Higher Education Policy, Asia Pacific Journal of Education, Studies in Engineering Education, International Journal of Chinese Education, Policy Reviews in Higher Education
-* 会议审稿人: Comparative&International Education Society(CIES)2023
+* 会议审稿人: Comparative&International Education Society(CIES)
+* 其他获奖：2025年清华大学研究生导学AI智能体大赛二等奖；2020年清华大学优秀招生志愿者；2024年清华大学综合一等奖学金
 
 
