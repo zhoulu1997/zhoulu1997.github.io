@@ -27,7 +27,7 @@ redirect_from:
 ## 期刊文章 Journal Articles
 * Zhou L. Graduate teaching assistants at research universities: current practices, challenges, and paths to improvement[J]. Journal for the Education of Gifted Young Scientists, 2025, 13(4): 227-237.
 * Zhou L, Zhang Z, Wang S. Broad Versus Specialized: Student Engagement Among Art Students in Chinese Universities[J]. International Journal of Chinese Education, 2025, 14(3): 2212585X251391833.
-* 文雯,周璐,袁佳鑫.现代大学书院制课程体系改革的实践探索——以清华大学为例[J].大学教育科学,2025,(05):120-126.
+* 文雯,周璐,袁佳鑫.现代大学书院制课程体系改革的实践探索——以清华大学为例[J].大学教育科学,2025,(05):120-126.（人大复印资料全文转载）
 * Wen W, Chang L, Wu Y, et al. How Have China's STI Policies Shaped EU-China Cooperation?[J]. Journal of Studies in International Education, 2025, 29(2): 197-213.
 * 周璐，文雯.大学课程知识共识的形成及演变：以计算机科学为例[J].清华大学教育研究,2025,46(05):144-153.
 * 周璐，杨皓麟，文雯.以色列拔尖创新人才早期发现与培养：“未来科学家”计划的启示[J].中小学科学教育,2025,2(03):74-80.【[read PDF](https://github.com/zhoulu1997/zhoulu1997.github.io/blob/master/files/%E4%BB%A5%E8%89%B2%E5%88%97%E6%8B%94%E5%B0%96%E5%88%9B%E6%96%B0%E4%BA%BA%E6%89%8D%E6%97%A9%E6%9C%9F%E5%8F%91%E7%8E%B0...%EF%BC%9A%E2%80%9C%E6%9C%AA%E6%9D%A5%E7%A7%91%E5%AD%A6%E5%AE%B6%E2%80%9D%E8%AE%A1%E5%88%92%E7%9A%84%E5%90%AF%E7%A4%BA_%E5%91%A8%E7%92%90.pdf)】
@@ -75,6 +75,7 @@ redirect_from:
 * Wen, W., Chen, Y., Jiang, Y., Zhou, L., & Yang, X. (2025). Nurturing AI Talent in Higher Education. In The Global Development of AI-Empowered Higher Education: Beyond the Horizon (pp. 123-170). Singapore: Springer Nature Singapore.
 * 史静寰，曹雪萌，周璐，谢婉怡，巴音. 《中国妇女教育发展报告NO.4——新时期女大学生的成长与发展》.章节：高等教育普及化阶段中国女大学生的学习体验与收获.社会科学文献出版社,2025
 * Wen, W., Chen, Y., Jiang, Y., Zhou, L., & Yang, X. (2025). Nurturing AI Talent in Higher Education. In The Global Development of AI-Empowered Higher Education: Beyond the Horizon (pp. 123-170). Singapore: Springer Nature Singapore.
+* 文雯，许明锋，张威，周璐，韩丰.清华大学智库政策专报《关于推动“冷门绝学”从“应急性保护”走向高质量可持续发展的建议》，获民进中央采纳, 2026.5
 * 文雯，周璐. 教育部高等教育司专报《人文社会科学中文大语言模型建设的必要性与策略建议》,2026.1
 * 文雯，陈毅卓，周璐，杨熙，姜雨辰. 人工智能领域人才战略规划和人才培养举措.清华大学人工智能教育白皮书，2024.8
 * 周璐.《借鉴与超越：中美高等教育的比较与审思》.章节：中美本科人才培养的对比分析.湖北教育出版社,待出版
